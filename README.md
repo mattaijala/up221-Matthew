@@ -1,7 +1,7 @@
 
 # UP221 Matthew
-![This is an image](https://imgur.com/FIoF1OU)
 
+![name_=_ Mathew _age_=_24_print(f My_name_is_{name}_and_I_am_{age}_years_old )](https://user-images.githubusercontent.com/122327655/211718581-a983bd4f-301f-4beb-9d6e-82880d009169.png)
 
 ***About Me:***
 Hello Everyone. My name is Matthew. I am a first year MURP student and I am excited to learn alongside you all. I am originally from San Diego, where i spent my entire childhood. I went to undergrad in Santa Cruz, and spent the last two years in Sacramento. My educational background is in Environmental Studies and I hope to one day be a part of the environmental planning field. In my free time I enjoy skateboarding and playing piano. Before enrolling at UCLA, I spent a year learning GIS at a community college where I was able to gain proficiency in ESRI products as well as take a few python based programming courses. However, I was never given the opportunity to use python in conjuction with GIS, so I am very excited about the content of this course. 
