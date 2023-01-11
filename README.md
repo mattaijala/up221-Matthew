@@ -18,4 +18,4 @@ ___
 As I mentioned above, my background in GIS is limited to ESRI (as well as QGIS). I am hoping that this class provides a way of approaching spatial data in a more independent format. I also hope to refine my python skills which have declined, as I do not code in my daily life. Most of all, I really just want to make cool stuff and be learn new skills!
 ___
 
-[go to my GitGub](https://github.com/mattaijala)
+go to my GitHub [Readme.md]([https://github.com/mattaijala](https://github.com/mattaijala/up221-Matthew/blob/main/README.md))
